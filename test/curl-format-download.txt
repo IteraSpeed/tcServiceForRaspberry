@@ -1,0 +1,1 @@
+status=%{http_code}\nurl_effective=%{url_effective}\nsize_download=%{size_download}\ntime_total=%{time_total}\nspeed_download=%{speed_download}\nspeed_upload=%{speed_upload}
